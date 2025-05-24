@@ -101,7 +101,7 @@ http://192.168.123.1:4022/rtp/239.255.29.5:8231
 http://192.168.123.1:4022/rtp/239.255.29.45:8231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",体育
 http://192.168.123.1:4022/rtp/239.255.29.31:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道类",足球频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",足球频道
 http://192.168.123.1:4022/rtp/239.255.29.25:8231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",MAX极速汽车
 http://192.168.123.1:4022/rtp/239.255.30.149:8231
@@ -131,7 +131,7 @@ http://192.168.123.1:4022/rtp/239.255.30.252:8231
 http://192.168.123.1:4022/rtp/239.255.30.253:8231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="甘肃频道",甘肃少儿
 http://192.168.123.1:4022/rtp/239.255.30.254:8231
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1台
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="其他频道",中国教育1台
 http://192.168.123.1:4022/rtp/239.255.30.90:8231
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://192.168.123.1:4022/rtp/239.255.30.123:8231
@@ -139,7 +139,7 @@ http://192.168.123.1:4022/rtp/239.255.30.123:8231
 http://192.168.123.1:4022/rtp/239.255.30.50:8231
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://192.168.123.1:4022/rtp/239.255.30.70:8231
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="其他频道",五星体育
 http://192.168.123.1:4022/rtp/239.255.29.45:8231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他频道",体育
 http://192.168.123.1:4022/rtp/239.255.29.31:8231
