@@ -65,7 +65,7 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/index.m3u8
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226666/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226698/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226690/index.m3u8
