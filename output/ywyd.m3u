@@ -175,7 +175,7 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221227413/index.m3u8
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226965/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226776/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",cctv7
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226948/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226984/index.m3u8
